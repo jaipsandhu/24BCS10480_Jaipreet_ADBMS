@@ -1,0 +1,6 @@
+
+SELECT *
+FROM Item
+UNION
+SELECT *
+FROM Item_adn;
